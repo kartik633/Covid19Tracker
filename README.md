@@ -7,3 +7,7 @@ Critical cases, Total deaths will be shown for the respective country.
 Note:- We use Volley and Rest Api For this App
 
 ## Screenshot
+## 1.
+![WhatsApp Image 2020-09-26 at 15 26 56 (1)](https://user-images.githubusercontent.com/52816373/94338060-11e92900-000d-11eb-9b0f-ec849ef0c2ce.jpeg)
+## 2.
+![WhatsApp Image 2020-09-26 at 15 26 56](https://user-images.githubusercontent.com/52816373/94338085-4957d580-000d-11eb-876a-faf6b63704ba.jpeg)
